@@ -1,4 +1,10 @@
-## Samples are provided by - https://emails.today
+## https://emails.today
+We @ Email.today provide numerous emails/online data services such as:
+
+- Email enrichment 
+- Email existence/verification
+- Lead emails for large number of categories (including custom)
+
 ### sample-data
 
-- Sales Marketing Leads: https://pastebin.com/dl/aGvDskc6
+- Sales Marketing Leads: https://pastebin.com/hfa5BkMA
