@@ -1,5 +1,5 @@
 ## https://emails.today
-We @ Email.today provide numerous emails/online data services such as:
+We @ Emails.today provide numerous emails/online data services such as:
 
 - Email enrichment 
 - Email existence/verification
